@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <h3 align="left">🛠 Meus Certificados</h3>
 
 <div align="left">
-   <a href="https://www.credly.com/badges/b22f5184-83ca-45bc-a72a-a540bdbba267" target="_blank"> <img src="https://images.credly.com/images/275e69a5-33a8-4d9c-bad4-2bdc0dfb7d40/image.png" height="120" alt="go logo"  /> </a>
+   <a href="https://www.credly.com/badges/b22f5184-83ca-45bc-a72a-a540bdbba267" > <img src="https://images.credly.com/images/275e69a5-33a8-4d9c-bad4-2bdc0dfb7d40/image.png" height="120" alt="go logo"  /> </a>
    <a href="https://www.credly.com/badges/a41f8e8e-93be-4421-8082-98fac191d026" target="_blank"> <img src="https://images.credly.com/size/340x340/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" height="120"  /> </a>
    <a href="https://www.credly.com/badges/7ac1862c-b851-4b9a-85a8-4ac37eddd2ef" target="_blank"> <img src="https://images.credly.com/size/340x340/images/44994cda-b5b0-44cb-9a6d-d29b57163073/image.png" height="120"   /> </a>
 </div>
