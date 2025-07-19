@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <h3 align="left">🛠 Meus Certificados</h3>
 
 <div align="left">
-  <img src="https://images.credly.com/images/275e69a5-33a8-4d9c-bad4-2bdc0dfb7d40/image.png" height="120" alt="go logo"  />
+   <a href="https://www.credly.com/badges/b22f5184-83ca-45bc-a72a-a540bdbba267" target="_blank"> <img src="https://images.credly.com/images/275e69a5-33a8-4d9c-bad4-2bdc0dfb7d40/image.png" height="120" alt="go logo"  /> </a>
   <img width="12" />
 </div>
 
