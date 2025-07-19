@@ -32,13 +32,13 @@ Here are some ideas to get you started:
 
 <div align="left">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GCP-Dark.svg" height="40" alt="go logo"  />
-  <img width="12" />
+  
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Terraform-Dark.svg" height="40" alt="rust logo"  />
-  <img width="12" />
+ 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" height="40" alt="rust logo"  />  
-<img width="12" />
+
  <img src="https://images.icon-icons.com/2429/PNG/512/notion_logo_icon_147257.png" height="40" alt="rust logo"  />  
- <img width="12" /> 
+ 
 </div>
 
 <h3 align="left">🛠 Meus Certificados</h3>
