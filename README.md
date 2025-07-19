@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 </div>
 
 
-<a href="SUA_URL_DO_LINKEDIN_AQUI" target="_blank">
-
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
@@ -44,7 +42,6 @@ Here are some ideas to get you started:
 
 <div align="left">
    <a href="https://www.credly.com/badges/b22f5184-83ca-45bc-a72a-a540bdbba267" target="_blank"> <img src="https://images.credly.com/images/275e69a5-33a8-4d9c-bad4-2bdc0dfb7d40/image.png" height="120" alt="go logo"  /> </a>
-  <img width="12" />
 </div>
 
 
