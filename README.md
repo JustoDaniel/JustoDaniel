@@ -37,10 +37,18 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Terraform-Dark.svg" height="40" alt="rust logo"  />
   <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" height="40" alt="rust logo"  />
-  
-
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" height="40" alt="rust logo"  />  
 </div>
+
+<h3 align="left">🛠 Meus Certificados</h3>
+
+<div align="left">
+  <img src="https://images.credly.com/images/275e69a5-33a8-4d9c-bad4-2bdc0dfb7d40/image.png" height="40" alt="go logo"  />
+  <img width="12" />
+</div>
+
+
+
 
 <h3 align="left">🔥   My Stats :</h3>
 
