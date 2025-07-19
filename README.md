@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <div align="left">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GCP-Dark.svg" height="40" alt="go logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Terraform-Dark.svg" height="40" alt="rust logo"  />
 
 </div>
 
