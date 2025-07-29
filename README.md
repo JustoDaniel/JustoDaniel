@@ -26,10 +26,11 @@ Here are some ideas to get you started:
 </div>
 
 
-<h3 align="left"><img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/248d556b-c2a1-4284-93b2-fa36a510b270" />
- Language and tools</h3>
+<h3 align="left"> 🛠 Language and tools</h3>
 
 ###
+
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/248d556b-c2a1-4284-93b2-fa36a510b270" />
 
 <div align="left">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GCP-Dark.svg" height="40" alt="go logo"  />
@@ -42,7 +43,8 @@ Here are some ideas to get you started:
  
 </div>
 
-<h3 align="left">🛠 Meus Certificados</h3>
+<h3 align="left"><img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/546aee80-499d-4011-87a7-79efdedf821f" />
+ Meus Certificados</h3>
 
 <div align="left">
    <img width="12" /> 
