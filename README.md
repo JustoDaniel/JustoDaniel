@@ -26,7 +26,8 @@ Here are some ideas to get you started:
 </div>
 
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left"><img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/248d556b-c2a1-4284-93b2-fa36a510b270" />
+ Language and tools</h3>
 
 ###
 
