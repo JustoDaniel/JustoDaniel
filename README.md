@@ -43,9 +43,7 @@ Here are some ideas to get you started:
  
 </div>
 
-<h3 align="left"><img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/d0f1aafe-6630-4f1e-83ef-e40bf3ea70b8" />
-
- Meus Certificados</h3>
+<h3 align="left"><img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/d0f1aafe-6630-4f1e-83ef-e40bf3ea70b8" /> Meus Certificados</h3>
 
 <div align="left">
    <img width="12" /> 
