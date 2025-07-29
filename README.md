@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 </div>
 
 <div>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustoDaniel&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=JustoDaniel&theme=transparent)](https://git.io/streak-stats)
 </div>
 
 
