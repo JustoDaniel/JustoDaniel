@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ###
 
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/248d556b-c2a1-4284-93b2-fa36a510b270" />
+
 
 <div align="left">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GCP-Dark.svg" height="40" alt="go logo"  />
