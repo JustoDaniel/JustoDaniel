@@ -58,9 +58,7 @@ Here are some ideas to get you started:
 <div>
 <h3 align="left">💡 Minhas estatisticas </h3>
   
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JustoDaniel&theme=transparent" alt="GitHub Streak" /></a>
-</div>
-
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=justodaniel)](https://git.io/streak-stats)
 
+</div>
